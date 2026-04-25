@@ -26,6 +26,14 @@ DSAI 490 · Assignment 1 · Unsupervised representation learning with Autoencode
 
 ---
 
+## Assets
+
+Model weights, processed data splits, and the demo recording are hosted on Google Drive:
+
+[Download assets (models, data, recording)](https://drive.google.com/drive/folders/11iD3v8g2cJOPZBPNJFJlc5JH83GWt0TS?usp=sharing)
+
+---
+
 ## Setup
 
 ### 1. Clone the repository
